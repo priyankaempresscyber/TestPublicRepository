@@ -1,2 +1,2 @@
 # TestPublicRepository
-test
+This is a test public repository
